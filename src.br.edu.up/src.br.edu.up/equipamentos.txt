@@ -1,0 +1,3 @@
+esteira,Cardio,false
+halteres,Musculação,false
+bolasuica,Funcional,false

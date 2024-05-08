@@ -1,0 +1,15 @@
+1,1,1,1.0,1.0,treinoGinasta,halteres
+12,12,12,12.0,12.0,treinoCardiovascular,noEquipement
+asdas,76,76,76.0,76.0,treinoGinasta,noEquipement
+cago,3,2,1.0,1.0,treinoGinasta,noEquipement
+gago,4,2,1.0,1.0,treinoGinasta,noEquipement
+gsd,65,65,65.0,65.0,treinoCardiovascular,noEquipement
+mago,5,2,1.0,1.0,treinoGinasta,noEquipement
+rago,6,2,1.0,1.0,treinoGinasta,noEquipement
+sago,7,2,1.0,1.0,treinoGinasta,noEquipement
+tago,8,2,1.0,1.0,treinoGinasta,noEquipement
+yago,09,9,9.0,9.0,treinoGanhoDeMassa,noEquipement
+yago,67,67,67.0,67.0,treinoGinasta,noEquipement
+yago,9,2,1.0,1.0,treinoGinasta,noEquipement
+yago,9,2,1.0,1.0,treinoGinasta,noEquipement
+yago,99,99,99.0,99.0,treinoGanhoDeMassa,noEquipement

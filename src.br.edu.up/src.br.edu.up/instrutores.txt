@@ -1,0 +1,4 @@
+carlos,Ginasta,28,TreinoGinasta,false
+yago,ganho de massa,19,TreinoGanhoDeMassa,false
+nicole,Emagrecimento,46,TreinoEmagrecimento,true
+eduarda,Cardiovascular,42,TreinoCardiovascular,false
